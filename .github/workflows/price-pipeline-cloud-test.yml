@@ -35,7 +35,7 @@ jobs:
         run: cat price-pipeline-cloud-report.txt
 
       - name: Upload Report Artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: price-pipeline-cloud-report
           path: price-pipeline-cloud-report.txt
