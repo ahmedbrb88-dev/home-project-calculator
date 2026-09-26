@@ -1,0 +1,130 @@
+[
+  {
+    "id": "gravel_concrete_6_20_35kg_FR_national",
+    "materialId": "gravel_concrete_6_20_35kg",
+    "country": "FR",
+    "currency": "EUR",
+    "unit": "sac",
+    "typicalPrice": 4.88,
+    "isDemo": false,
+    "taxIncluded": true,
+    "sources": [
+      {
+        "name": "Point.P France",
+        "url": "https://www.pointp.fr/p/gros-oeuvre-bpe-voirie-tp/melange-sable-et-gravier-pour-beton-en-sac-de-35-kg-A1110593",
+        "retrievedAt": "2026-09-25T14:46:17.945Z",
+        "publishedAt": "2026-09-25T14:46:17.945Z",
+        "confidence": "medium",
+        "notes": "Mélange sable et gravier pour béton en sac de 35 kg. Price may vary by agency. 4.88 EUR TTC."
+      }
+    ],
+    "materialFamily": "gravel",
+    "productForm": "bag",
+    "commercialUnit": "sac",
+    "packageSize": 35
+  },
+  {
+    "id": "concrete_bag_fr_real_FR_national",
+    "materialId": "concrete_bag_fr_real",
+    "country": "FR",
+    "currency": "EUR",
+    "unit": "bag",
+    "typicalPrice": 6.19,
+    "isDemo": false,
+    "taxIncluded": true,
+    "materialFamily": "concrete",
+    "productForm": "bag",
+    "commercialUnit": "bag",
+    "physicalUnit": "kg",
+    "packageSize": 25,
+    "sources": [
+      {
+        "name": "Leroy Merlin France",
+        "url": "https://www.leroymerlin.fr/produits/materiaux/gros-oeuvre/ciment-mortier-beton/beton-universel-gris-haute-resistance-25-kg-82088899.html",
+        "retrievedAt": "2026-09-25T18:29:22.748Z",
+        "publishedAt": "2026-09-25T18:29:22.748Z",
+        "confidence": "medium",
+        "notes": "Béton universel gris haute résistance en sac de 25 kg. 6.19 EUR TTC."
+      }
+    ]
+  },
+  {
+    "id": "ceramic_tile_box_fr_real_FR_national",
+    "materialId": "ceramic_tile_box_fr_real",
+    "country": "FR",
+    "currency": "EUR",
+    "unit": "box",
+    "typicalPrice": 28.73,
+    "isDemo": false,
+    "taxIncluded": true,
+    "materialFamily": "tile",
+    "materialType": "ceramic",
+    "productForm": "box",
+    "commercialUnit": "box",
+    "physicalUnit": "m²",
+    "packageSize": 1.44,
+    "sources": [
+      {
+        "name": "Castorama France",
+        "url": "https://www.castorama.fr/carrelage-sol-et-mur-interieur-gres-cerame-emaille-effet-beton-gris-malt-60-x-60-cm-ep-8-mm/3663602812080_CAFR.prd",
+        "retrievedAt": "2026-09-25T18:39:04.530Z",
+        "publishedAt": "2026-09-25T18:39:04.530Z",
+        "confidence": "medium",
+        "notes": "Carrelage sol et mur intérieur en grès cérame émaillé effet béton gris (modèle Malt), dimensions 60 x 60 cm. 28.73 EUR / Boîte. Boîte couvre 1.44 m2."
+      }
+    ]
+  },
+  {
+    "id": "paint_interior_container_fr_real_FR_national",
+    "materialId": "paint_interior_container_fr_real",
+    "country": "FR",
+    "currency": "EUR",
+    "unit": "container",
+    "typicalPrice": 38.9,
+    "isDemo": false,
+    "taxIncluded": true,
+    "materialFamily": "paint",
+    "materialType": "interior",
+    "productForm": "container",
+    "commercialUnit": "container",
+    "physicalUnit": "litre",
+    "packageSize": 1.25,
+    "coveragePerUnit": 11,
+    "sources": [
+      {
+        "name": "Castorama France",
+        "url": "https://www.castorama.fr/peinture-interieure-creme-de-couleur-dulux-valentine",
+        "retrievedAt": "2026-09-25T18:42:53.979Z",
+        "publishedAt": "2026-09-25T18:42:53.979Z",
+        "confidence": "medium",
+        "notes": "Dulux Valentine Crème de Couleur, pot de 1.25 L. Rendement environ 11 m2/L. 38.90 EUR TTC."
+      }
+    ]
+  },
+  {
+    "id": "ceramic_tile_box_us_real_US_national",
+    "materialId": "ceramic_tile_box_us_real",
+    "country": "US",
+    "currency": "USD",
+    "unit": "box",
+    "typicalPrice": 152.73,
+    "isDemo": false,
+    "taxIncluded": false,
+    "materialFamily": "tile",
+    "materialType": "ceramic",
+    "productForm": "box",
+    "commercialUnit": "box",
+    "physicalUnit": "sq_ft",
+    "packageSize": 15.49,
+    "sources": [
+      {
+        "name": "Home Depot US",
+        "url": "https://www.homedepot.com/p/Ivy-Hill-Tile-24-in-x-24-in-Matte-Porcelain-Floor-and-Wall-Tile/",
+        "retrievedAt": "2026-09-25T18:55:05.294Z",
+        "publishedAt": "2026-09-25T18:55:05.294Z",
+        "confidence": "medium",
+        "notes": "Ivy Hill Tile 24 in. x 24 in. Matte Porcelain Floor and Wall Tile. $152.73 / case. Covers 15.49 sq. ft."
+      }
+    ]
+  }
+]

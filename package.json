@@ -1,0 +1,45 @@
+{
+  "name": "home-project-calculator",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "oxlint",
+    "preview": "vite preview",
+    "i18n:check": "node scripts/i18n-check.cjs",
+    "price:discover": "npx tsx scripts/price-update/discover-only.ts",
+    "source:health": "npx tsx scripts/price-update/resilience/source-health-cli.ts",
+    "source:discover": "npx tsx scripts/price-update/resilience/source-discovery-cli.ts",
+    "source:discover:real": "npx tsx scripts/price-update/resilience/source-discovery-cli.ts",
+    "price:update": "npx tsx scripts/price-update/resilience/price-update-cli.ts",
+    "source:recover": "npx tsx scripts/price-update/resilience/source-recover-cli.ts",
+    "source:test": "npx tsx scripts/price-update/resilience/tests/resilience.test.ts",
+    "source:test:real": "npx tsx scripts/price-update/resilience/tests/real-integration.test.ts",
+    "product:verify": "npx tsx scripts/price-update/resilience/tests/verification.test.ts",
+    "product:recover": "npx tsx scripts/price-update/resilience/source-recover-cli.ts",
+    "product:test:real": "npx tsx scripts/price-update/resilience/tests/verification.test.ts",
+    "price:test:pipeline": "npx tsx scripts/price-update/resilience/tests/real-pipeline.integration.test.ts",
+    "discovery:test:new": "npx tsx scripts/price-update/discovery/new-product-discovery-test.ts"
+  },
+  "dependencies": {
+    "i18next": "^26.4.2",
+    "i18next-browser-languagedetector": "^8.2.1",
+    "lucide-react": "^1.48.0",
+    "playwright": "^1.63.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-i18next": "^17.0.15",
+    "react-router-dom": "^7.18.4"
+  },
+  "devDependencies": {
+    "@types/node": "^24.13.3",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vitejs/plugin-react": "^6.1.1",
+    "oxlint": "^1.81.0",
+    "typescript": "~6.0.2",
+    "vite": "^8.3.0"
+  }
+}

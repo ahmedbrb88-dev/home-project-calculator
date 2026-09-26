@@ -1,0 +1,877 @@
+{
+  "generatedAt": "2026-09-25T19:41:42.092Z",
+  "country": "DZ",
+  "urlDiscovery": {
+    "sources": [
+      "ouedkniss_dz",
+      "dzprix_dz",
+      "bricowest_dz",
+      "fixotop_dz",
+      "dekkal_dz",
+      "peintoura_dz",
+      "mawaddz_dz"
+    ],
+    "urlsDiscovered": 551,
+    "urlsSelected": 85
+  },
+  "candidates": [
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Ouedkniss DZ",
+      "url": "https://www.ouedkniss.com",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "DZPRIX",
+      "url": "https://dzprix.com",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "DZPRIX",
+      "url": "https://dzprix.com/produits",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "DZPRIX",
+      "url": "https://dzprix.com/boutiques",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "DZPRIX",
+      "url": "https://dzprix.com/vendeur",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "DZPRIX",
+      "url": "https://dzprix.com/confidentialite",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "DZPRIX",
+      "url": "https://dzprix.com/boutique/testshop123",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "DZPRIX",
+      "url": "https://dzprix.com/connexion",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "DZPRIX",
+      "url": "https://dzprix.com/produits?category=Informatique",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "DZPRIX",
+      "url": "https://dzprix.com/produits?category=T%C3%A9l%C3%A9phonie",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "DZPRIX",
+      "url": "https://dzprix.com/produits?category=%C3%89lectronique",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "DZPRIX",
+      "url": "https://dzprix.com/produits?category=Mode+%26+V%C3%AAtements",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "DZPRIX",
+      "url": "https://dzprix.com/produits?category=%C3%89lectrom%C3%A9nager",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "DZPRIX",
+      "url": "https://dzprix.com/produits?category=Gaming",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "DZPRIX",
+      "url": "https://dzprix.com/produits?category=Beaut%C3%A9",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "DZPRIX",
+      "url": "https://dzprix.com/produits?category=Alimentation",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Bricowest DZ",
+      "url": "https://bricowest.com/ar/products/transpalettes/transpalette-manuel-2500kg",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Bricowest DZ",
+      "url": "https://bricowest.com/ar/products/sacs-main-femme/guess-sac-main-femme-bandouliere",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Bricowest DZ",
+      "url": "https://bricowest.com/ar/products/sacs-main-femme",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Bricowest DZ",
+      "url": "https://bricowest.com/sitemap-pages-1.xml",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Bricowest DZ",
+      "url": "https://bricowest.com/sitemap-categories-1.xml",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Bricowest DZ",
+      "url": "https://bricowest.com/sitemap-brands-1.xml",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Bricowest DZ",
+      "url": "https://bricowest.com/sitemap-tags-1.xml",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Bricowest DZ",
+      "url": "https://bricowest.com/sitemap-products-1.xml",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Bricowest DZ",
+      "url": "https://bricowest.com/ar",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Bricowest DZ",
+      "url": "https://bricowest.com/ar/wishlist",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Bricowest DZ",
+      "url": "https://bricowest.com/fr",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Bricowest DZ",
+      "url": "https://bricowest.com/en",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Bricowest DZ",
+      "url": "https://bricowest.com/ar/products",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Bricowest DZ",
+      "url": "https://bricowest.com/ar/products/electromenager",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Bricowest DZ",
+      "url": "https://bricowest.com/ar/products/cuisine-art-table",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Fixotop DZ",
+      "url": "https://fixotop.com/ar/products/ciment-mortier",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Fixotop DZ",
+      "url": "https://fixotop.com/fr/products/ciment-mortier",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Fixotop DZ",
+      "url": "https://fixotop.com/en/products/ciment-mortier",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "REJECTED",
+      "confidenceScore": 65,
+      "confidenceLevel": "medium",
+      "candidate": {
+        "candidateId": "unknown_1790365785453_114",
+        "country": "DZ",
+        "materialFamily": "unknown",
+        "priceType": "EXACT_PRODUCT_PRICE",
+        "price": 5600,
+        "currency": "DA",
+        "taxIncluded": true,
+        "sourceName": "Fixotop DZ",
+        "sourceUrl": "https://fixotop.com/ar/products/peintures-interieures/peinture-murale-blanche-20kg",
+        "checkedAt": "2026-09-25T19:49:45.453Z",
+        "confidence": "medium",
+        "discoveryMethod": "scraper",
+        "providerId": "fixotop_dz",
+        "productIdentity": {
+          "materialFamily": "unknown",
+          "brand": "Sika",
+          "productName": "دهان جداري أبيض ناصع 20 كغ",
+          "country": "DZ"
+        },
+        "packageVariant": {
+          "packageSize": 0
+        }
+      },
+      "reason": "Incompatible taxonomy / Missing units"
+    },
+    {
+      "status": "REJECTED",
+      "confidenceScore": 65,
+      "confidenceLevel": "medium",
+      "candidate": {
+        "candidateId": "unknown_1790365786217_456",
+        "country": "DZ",
+        "materialFamily": "unknown",
+        "priceType": "EXACT_PRODUCT_PRICE",
+        "price": 2200,
+        "currency": "DA",
+        "taxIncluded": true,
+        "sourceName": "Fixotop DZ",
+        "sourceUrl": "https://fixotop.com/ar/p/boite-vis-boulons-500",
+        "checkedAt": "2026-09-25T19:49:46.217Z",
+        "confidence": "medium",
+        "discoveryMethod": "scraper",
+        "providerId": "fixotop_dz",
+        "productIdentity": {
+          "materialFamily": "unknown",
+          "brand": "Stanley",
+          "productName": "صندوق براغي ومسامير مشكل 500 قطعة",
+          "country": "DZ"
+        },
+        "packageVariant": {
+          "packageSize": 0
+        }
+      },
+      "reason": "Incompatible taxonomy / Missing units"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Fixotop DZ",
+      "url": "https://fixotop.com/ar/products/peintures-interieures",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Fixotop DZ",
+      "url": "https://fixotop.com/fr/products/peintures-interieures",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Fixotop DZ",
+      "url": "https://fixotop.com/en/products/peintures-interieures",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Fixotop DZ",
+      "url": "https://fixotop.com/ar/products/carrelage-ceramique",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Fixotop DZ",
+      "url": "https://fixotop.com/fr/products/carrelage-ceramique",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Fixotop DZ",
+      "url": "https://fixotop.com/en/products/carrelage-ceramique",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "REJECTED",
+      "confidenceScore": 65,
+      "confidenceLevel": "medium",
+      "candidate": {
+        "candidateId": "unknown_1790365791512_315",
+        "country": "DZ",
+        "materialFamily": "unknown",
+        "priceType": "EXACT_PRODUCT_PRICE",
+        "price": 1200,
+        "currency": "DA",
+        "taxIncluded": true,
+        "sourceName": "Fixotop DZ",
+        "sourceUrl": "https://fixotop.com/ar/products/carrelage-ceramique/colle-carrelage-c1",
+        "checkedAt": "2026-09-25T19:49:51.512Z",
+        "confidence": "medium",
+        "discoveryMethod": "scraper",
+        "providerId": "fixotop_dz",
+        "productIdentity": {
+          "materialFamily": "unknown",
+          "brand": "Bostik",
+          "productName": "لاصق سيراميك بلاط C1",
+          "country": "DZ"
+        },
+        "packageVariant": {
+          "packageSize": 0
+        }
+      },
+      "reason": "Incompatible taxonomy / Missing units"
+    },
+    {
+      "status": "REJECTED",
+      "confidenceScore": 65,
+      "confidenceLevel": "medium",
+      "candidate": {
+        "candidateId": "unknown_1790365792375_184",
+        "country": "DZ",
+        "materialFamily": "unknown",
+        "priceType": "EXACT_PRODUCT_PRICE",
+        "price": 4800,
+        "currency": "DA",
+        "taxIncluded": true,
+        "sourceName": "Fixotop DZ",
+        "sourceUrl": "https://fixotop.com/ar/products/etancheite-isolation/etancheite-toiture-20kg",
+        "checkedAt": "2026-09-25T19:49:52.375Z",
+        "confidence": "medium",
+        "discoveryMethod": "scraper",
+        "providerId": "fixotop_dz",
+        "productIdentity": {
+          "materialFamily": "unknown",
+          "brand": "Sika",
+          "productName": "مانع تسرب مائي للأسطح 20كغ",
+          "country": "DZ"
+        },
+        "packageVariant": {
+          "packageSize": 0
+        }
+      },
+      "reason": "Incompatible taxonomy / Missing units"
+    },
+    {
+      "status": "REJECTED",
+      "confidenceScore": 65,
+      "confidenceLevel": "medium",
+      "candidate": {
+        "candidateId": "unknown_1790365793302_394",
+        "country": "DZ",
+        "materialFamily": "unknown",
+        "priceType": "EXACT_PRODUCT_PRICE",
+        "price": 1500,
+        "currency": "DA",
+        "taxIncluded": true,
+        "sourceName": "Fixotop DZ",
+        "sourceUrl": "https://fixotop.com/ar/p/courroie-distribution-universelle",
+        "checkedAt": "2026-09-25T19:49:53.302Z",
+        "confidence": "medium",
+        "discoveryMethod": "scraper",
+        "providerId": "fixotop_dz",
+        "productIdentity": {
+          "materialFamily": "unknown",
+          "brand": "Parker",
+          "productName": "حزام توزيع محرك عالمي",
+          "country": "DZ"
+        },
+        "packageVariant": {
+          "packageSize": 0
+        }
+      },
+      "reason": "Incompatible taxonomy / Missing units"
+    },
+    {
+      "status": "REJECTED",
+      "confidenceScore": 65,
+      "confidenceLevel": "medium",
+      "candidate": {
+        "candidateId": "unknown_1790365794141_802",
+        "country": "DZ",
+        "materialFamily": "unknown",
+        "priceType": "EXACT_PRODUCT_PRICE",
+        "price": 650,
+        "currency": "DA",
+        "taxIncluded": true,
+        "sourceName": "Fixotop DZ",
+        "sourceUrl": "https://fixotop.com/ar/p/filtre-air-industriel",
+        "checkedAt": "2026-09-25T19:49:54.141Z",
+        "confidence": "medium",
+        "discoveryMethod": "scraper",
+        "providerId": "fixotop_dz",
+        "productIdentity": {
+          "materialFamily": "unknown",
+          "brand": "Parker",
+          "productName": "فلتر هواء صناعي عام",
+          "country": "DZ"
+        },
+        "packageVariant": {
+          "packageSize": 0
+        }
+      },
+      "reason": "Incompatible taxonomy / Missing units"
+    },
+    {
+      "status": "INSUFFICIENT_DATA",
+      "confidenceScore": 45,
+      "confidenceLevel": "low",
+      "candidate": {
+        "candidateId": "unknown_1790365802033_243",
+        "country": "DZ",
+        "materialFamily": "paint",
+        "priceType": "EXACT_PRODUCT_PRICE",
+        "currency": "DZD",
+        "taxIncluded": true,
+        "sourceName": "Dekkal Quincaillerie",
+        "sourceUrl": "https://dekkal-quincaillerie.dz/fr/produit/decapeur-de-peinture-thermique-1600w-220v-350-50",
+        "checkedAt": "2026-09-25T19:50:02.033Z",
+        "confidence": "low",
+        "discoveryMethod": "scraper",
+        "providerId": "dekkal_dz",
+        "productIdentity": {
+          "materialFamily": "paint",
+          "brand": "CROWN",
+          "productName": "DECAPEUR DE PEINTURE THERMIQUE 1600W 220V 350°  50",
+          "country": "DZ"
+        },
+        "packageVariant": {
+          "packageSize": 0
+        }
+      },
+      "reason": "Missing or invalid exact price"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Dekkal Quincaillerie",
+      "url": "https://dekkal-quincaillerie.dz/fr/categorie-produit/peinture",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Dekkal Quincaillerie",
+      "url": "https://dekkal-quincaillerie.dz/fr/categorie-produit/peinture-pigma-color",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "INSUFFICIENT_DATA",
+      "confidenceScore": 25,
+      "confidenceLevel": "low",
+      "candidate": {
+        "candidateId": "unknown_1790365809063_808",
+        "country": "DZ",
+        "materialFamily": "paint",
+        "priceType": "EXACT_PRODUCT_PRICE",
+        "currency": "DZD",
+        "taxIncluded": true,
+        "sourceName": "Dekkal Quincaillerie",
+        "sourceUrl": "https://dekkal-quincaillerie.dz/fr/produit/peinture-en-spray-chromee-200ml-spraytec",
+        "checkedAt": "2026-09-25T19:50:09.063Z",
+        "confidence": "low",
+        "discoveryMethod": "scraper",
+        "providerId": "dekkal_dz",
+        "productIdentity": {
+          "materialFamily": "paint",
+          "productName": "PEINTURE EN SPRAY CHROMÉE 200ML SPRAYTEC",
+          "country": "DZ"
+        },
+        "packageVariant": {
+          "packageSize": 0
+        }
+      },
+      "reason": "Missing or invalid exact price"
+    },
+    {
+      "status": "INSUFFICIENT_DATA",
+      "confidenceScore": 25,
+      "confidenceLevel": "low",
+      "candidate": {
+        "candidateId": "unknown_1790365810181_360",
+        "country": "DZ",
+        "materialFamily": "paint",
+        "priceType": "EXACT_PRODUCT_PRICE",
+        "currency": "DZD",
+        "taxIncluded": true,
+        "sourceName": "Dekkal Quincaillerie",
+        "sourceUrl": "https://dekkal-quincaillerie.dz/fr/produit/peinture-en-spray-doree-400ml-spraytec",
+        "checkedAt": "2026-09-25T19:50:10.181Z",
+        "confidence": "low",
+        "discoveryMethod": "scraper",
+        "providerId": "dekkal_dz",
+        "productIdentity": {
+          "materialFamily": "paint",
+          "productName": "PEINTURE EN SPRAY DORÉE 400ML SPRAYTEC",
+          "country": "DZ"
+        },
+        "packageVariant": {
+          "packageSize": 0
+        }
+      },
+      "reason": "Missing or invalid exact price"
+    },
+    {
+      "status": "INSUFFICIENT_DATA",
+      "confidenceScore": 25,
+      "confidenceLevel": "low",
+      "candidate": {
+        "candidateId": "unknown_1790365811368_520",
+        "country": "DZ",
+        "materialFamily": "unknown",
+        "priceType": "EXACT_PRODUCT_PRICE",
+        "currency": "DZD",
+        "taxIncluded": true,
+        "sourceName": "Dekkal Quincaillerie",
+        "sourceUrl": "https://dekkal-quincaillerie.dz/fr/produit/decapant-peinture-spray-swab-400ml-algerie",
+        "checkedAt": "2026-09-25T19:50:11.368Z",
+        "confidence": "low",
+        "discoveryMethod": "scraper",
+        "providerId": "dekkal_dz",
+        "productIdentity": {
+          "materialFamily": "unknown",
+          "productName": "DECAPANT EN SPRAY 400ML SWAB",
+          "country": "DZ"
+        },
+        "packageVariant": {
+          "packageSize": 0
+        }
+      },
+      "reason": "Missing or invalid exact price"
+    },
+    {
+      "status": "INSUFFICIENT_DATA",
+      "confidenceScore": 45,
+      "confidenceLevel": "low",
+      "candidate": {
+        "candidateId": "unknown_1790365812517_618",
+        "country": "DZ",
+        "materialFamily": "paint",
+        "priceType": "EXACT_PRODUCT_PRICE",
+        "currency": "DZD",
+        "taxIncluded": true,
+        "sourceName": "Dekkal Quincaillerie",
+        "sourceUrl": "https://dekkal-quincaillerie.dz/fr/produit/decapant-peinture-enap-300g-025l-algerie",
+        "checkedAt": "2026-09-25T19:50:12.517Z",
+        "confidence": "low",
+        "discoveryMethod": "scraper",
+        "providerId": "dekkal_dz",
+        "productIdentity": {
+          "materialFamily": "paint",
+          "brand": "ENAP",
+          "productName": "DECAPANT DE PEINTURE 250ML DECAPVIT ENAP",
+          "country": "DZ"
+        },
+        "packageVariant": {
+          "packageSize": 0
+        }
+      },
+      "reason": "Missing or invalid exact price"
+    },
+    {
+      "status": "INSUFFICIENT_DATA",
+      "confidenceScore": 45,
+      "confidenceLevel": "low",
+      "candidate": {
+        "candidateId": "unknown_1790365817946_661",
+        "country": "DZ",
+        "materialFamily": "unknown",
+        "priceType": "EXACT_PRODUCT_PRICE",
+        "currency": "DZD",
+        "taxIncluded": true,
+        "sourceName": "Dekkal Quincaillerie",
+        "sourceUrl": "https://dekkal-quincaillerie.dz/fr/produit/monte-charge-500kg-hd-18600-gshonda",
+        "checkedAt": "2026-09-25T19:50:17.946Z",
+        "confidence": "low",
+        "discoveryMethod": "scraper",
+        "providerId": "dekkal_dz",
+        "productIdentity": {
+          "materialFamily": "unknown",
+          "brand": "GSHONDA",
+          "productName": "MONTE CHARGE 500KG HD-18600 GSHONDA",
+          "country": "DZ"
+        },
+        "packageVariant": {
+          "packageSize": 0
+        }
+      },
+      "reason": "Missing or invalid exact price"
+    },
+    {
+      "status": "INSUFFICIENT_DATA",
+      "confidenceScore": 45,
+      "confidenceLevel": "low",
+      "candidate": {
+        "candidateId": "unknown_1790365822492_317",
+        "country": "DZ",
+        "materialFamily": "unknown",
+        "priceType": "EXACT_PRODUCT_PRICE",
+        "currency": "DZD",
+        "taxIncluded": true,
+        "sourceName": "Dekkal Quincaillerie",
+        "sourceUrl": "https://dekkal-quincaillerie.dz/fr/produit/monte-charge-800kg-hd-18601-gshonda",
+        "checkedAt": "2026-09-25T19:50:22.492Z",
+        "confidence": "low",
+        "discoveryMethod": "scraper",
+        "providerId": "dekkal_dz",
+        "productIdentity": {
+          "materialFamily": "unknown",
+          "brand": "GSHONDA",
+          "productName": "MONTE CHARGE 800KG HD-18601 GSHONDA",
+          "country": "DZ"
+        },
+        "packageVariant": {
+          "packageSize": 0
+        }
+      },
+      "reason": "Missing or invalid exact price"
+    },
+    {
+      "status": "INSUFFICIENT_DATA",
+      "confidenceScore": 45,
+      "confidenceLevel": "low",
+      "candidate": {
+        "candidateId": "unknown_1790365826700_6",
+        "country": "DZ",
+        "materialFamily": "unknown",
+        "priceType": "EXACT_PRODUCT_PRICE",
+        "currency": "DZD",
+        "taxIncluded": true,
+        "sourceName": "Dekkal Quincaillerie",
+        "sourceUrl": "https://dekkal-quincaillerie.dz/fr/produit/scie-sauteuse-400w-js262-orca-2",
+        "checkedAt": "2026-09-25T19:50:26.700Z",
+        "confidence": "low",
+        "discoveryMethod": "scraper",
+        "providerId": "dekkal_dz",
+        "productIdentity": {
+          "materialFamily": "unknown",
+          "brand": "ORCA",
+          "productName": "SCIE SAUTEUSE 400W JS262 ORCA",
+          "country": "DZ"
+        },
+        "packageVariant": {
+          "packageSize": 0
+        }
+      },
+      "reason": "Missing or invalid exact price"
+    },
+    {
+      "status": "INSUFFICIENT_DATA",
+      "confidenceScore": 45,
+      "confidenceLevel": "low",
+      "candidate": {
+        "candidateId": "unknown_1790365830877_777",
+        "country": "DZ",
+        "materialFamily": "unknown",
+        "priceType": "EXACT_PRODUCT_PRICE",
+        "currency": "DZD",
+        "taxIncluded": true,
+        "sourceName": "Dekkal Quincaillerie",
+        "sourceUrl": "https://dekkal-quincaillerie.dz/fr/produit/odometre-hd18500-gshonda-2",
+        "checkedAt": "2026-09-25T19:50:30.877Z",
+        "confidence": "low",
+        "discoveryMethod": "scraper",
+        "providerId": "dekkal_dz",
+        "productIdentity": {
+          "materialFamily": "unknown",
+          "brand": "GSHONDA",
+          "productName": "ODOMETRE HD18500 GSHONDA",
+          "country": "DZ"
+        },
+        "packageVariant": {
+          "packageSize": 0
+        }
+      },
+      "reason": "Missing or invalid exact price"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Dekkal Quincaillerie",
+      "url": "https://dekkal-quincaillerie.dz/post-sitemap.xml",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Dekkal Quincaillerie",
+      "url": "https://dekkal-quincaillerie.dz/page-sitemap.xml",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Dekkal Quincaillerie",
+      "url": "https://dekkal-quincaillerie.dz/product-sitemap.xml",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Dekkal Quincaillerie",
+      "url": "https://dekkal-quincaillerie.dz/product-sitemap2.xml",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Peintoura",
+      "url": "https://peintoura.com/wp-sitemap-posts-post-1.xml",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Peintoura",
+      "url": "https://peintoura.com/wp-sitemap-posts-page-1.xml",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Peintoura",
+      "url": "https://peintoura.com/wp-sitemap-posts-product-1.xml",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Peintoura",
+      "url": "https://peintoura.com/wp-sitemap-taxonomies-category-1.xml",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Peintoura",
+      "url": "https://peintoura.com/wp-sitemap-taxonomies-post_tag-1.xml",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Peintoura",
+      "url": "https://peintoura.com/wp-sitemap-taxonomies-cms_block_cat-1.xml",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Peintoura",
+      "url": "https://peintoura.com/wp-sitemap-taxonomies-product_brand-1.xml",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Peintoura",
+      "url": "https://peintoura.com/wp-sitemap-taxonomies-product_cat-1.xml",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "Peintoura",
+      "url": "https://peintoura.com/wp-sitemap-users-1.xml",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "MAWAD-DZ",
+      "url": "https://mawad-dz.com/matieres-premieres/peinture",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "MAWAD-DZ",
+      "url": "https://mawad-dz.com/annonces?category=peinture",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "MAWAD-DZ",
+      "url": "https://mawad-dz.com/annonces?category=papier-carton",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "MAWAD-DZ",
+      "url": "https://mawad-dz.com/blog/plasturgie-algerie-2026",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "MAWAD-DZ",
+      "url": "https://mawad-dz.com",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "MAWAD-DZ",
+      "url": "https://mawad-dz.com/annonces",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "MAWAD-DZ",
+      "url": "https://mawad-dz.com/fournisseurs",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "MAWAD-DZ",
+      "url": "https://mawad-dz.com/fournisseurs-internationaux",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "MAWAD-DZ",
+      "url": "https://mawad-dz.com/compare",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "MAWAD-DZ",
+      "url": "https://mawad-dz.com/classement-vendeurs",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "MAWAD-DZ",
+      "url": "https://mawad-dz.com/group-buying",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "MAWAD-DZ",
+      "url": "https://mawad-dz.com/appels-offres",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "MAWAD-DZ",
+      "url": "https://mawad-dz.com/fil-actualite",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "MAWAD-DZ",
+      "url": "https://mawad-dz.com/blog",
+      "reason": "Extraction returned no valid products"
+    },
+    {
+      "status": "EXTRACTION_FAILED",
+      "source": "MAWAD-DZ",
+      "url": "https://mawad-dz.com/calculateur-transport",
+      "reason": "Extraction returned no valid products"
+    }
+  ]
+}

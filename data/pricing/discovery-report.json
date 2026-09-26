@@ -1,0 +1,104 @@
+{
+  "country": "DZ",
+  "sourcesChecked": 7,
+  "sourcesAvailable": 7,
+  "sourcesUnavailable": 0,
+  "pagesDiscovered": 85,
+  "candidatesExtracted": 15,
+  "accepted": 0,
+  "review": 0,
+  "rejected": 15,
+  "urlDiscoveryReports": [
+    {
+      "sourceId": "ouedkniss_dz",
+      "sitemap": {
+        "found": false,
+        "urls": 0
+      },
+      "linksDiscovered": 1,
+      "uniqueUrls": 1,
+      "selectedUrls": 1,
+      "productPages": 0,
+      "productsExtracted": 0,
+      "productPagesAttempted": 1
+    },
+    {
+      "sourceId": "dzprix_dz",
+      "sitemap": {
+        "found": true,
+        "urls": 6
+      },
+      "linksDiscovered": 18,
+      "uniqueUrls": 15,
+      "selectedUrls": 15,
+      "productPages": 0,
+      "productsExtracted": 0,
+      "productPagesAttempted": 15
+    },
+    {
+      "sourceId": "bricowest_dz",
+      "sitemap": {
+        "found": true,
+        "urls": 5
+      },
+      "linksDiscovered": 223,
+      "uniqueUrls": 101,
+      "selectedUrls": 15,
+      "productPages": 0,
+      "productsExtracted": 0,
+      "productPagesAttempted": 15
+    },
+    {
+      "sourceId": "fixotop_dz",
+      "sitemap": {
+        "found": true,
+        "urls": 100
+      },
+      "linksDiscovered": 203,
+      "uniqueUrls": 158,
+      "selectedUrls": 15,
+      "productPages": 6,
+      "productsExtracted": 6,
+      "productPagesAttempted": 15
+    },
+    {
+      "sourceId": "dekkal_dz",
+      "sitemap": {
+        "found": true,
+        "urls": 11
+      },
+      "linksDiscovered": 333,
+      "uniqueUrls": 164,
+      "selectedUrls": 15,
+      "productPages": 9,
+      "productsExtracted": 9,
+      "productPagesAttempted": 15
+    },
+    {
+      "sourceId": "peintoura_dz",
+      "sitemap": {
+        "found": true,
+        "urls": 9
+      },
+      "linksDiscovered": 0,
+      "uniqueUrls": 9,
+      "selectedUrls": 9,
+      "productPages": 0,
+      "productsExtracted": 0,
+      "productPagesAttempted": 9
+    },
+    {
+      "sourceId": "mawaddz_dz",
+      "sitemap": {
+        "found": true,
+        "urls": 100
+      },
+      "linksDiscovered": 102,
+      "uniqueUrls": 103,
+      "selectedUrls": 15,
+      "productPages": 0,
+      "productsExtracted": 0,
+      "productPagesAttempted": 15
+    }
+  ]
+}

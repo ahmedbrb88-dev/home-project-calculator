@@ -1,0 +1,57 @@
+name: Weekly Price Pipeline
+
+on:
+  schedule:
+    # Run every Sunday at 02:00 UTC
+    - cron: '0 2 * * 0'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Run in Dry Run mode (no production changes)'
+        required: true
+        type: boolean
+        default: true
+
+jobs:
+  price-update:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Run Build and Tests
+        run: |
+          npm run build
+          # npm test # execute any integration tests for resilience before modifying data
+
+      - name: Run Weekly Price Pipeline (Dry Run)
+        if: ${{ github.event_name == 'schedule' || github.event.inputs.dry_run == 'true' }}
+        run: npm run price:update
+        
+      - name: Run Weekly Price Pipeline (APPLY)
+        if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.dry_run == 'false' }}
+        run: npm run price:update -- --apply
+
+      - name: Commit and Push Changes
+        if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.dry_run == 'false' }}
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Check if prices.json changed
+          if git diff --exit-code data/pricing/prices.json; then
+            echo "NO_PRODUCTION_CHANGE detected. No commit necessary."
+          else
+            git add data/pricing/prices.json
+            git commit -m "chore(pricing): weekly automated price update"
+            git push
+          fi

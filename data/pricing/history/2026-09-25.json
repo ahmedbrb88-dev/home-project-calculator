@@ -1,0 +1,32 @@
+[
+  {
+    "action": "ADDED",
+    "newPrice": {
+      "id": "ceramic_tile_box_us_real_US_national",
+      "materialId": "ceramic_tile_box_us_real",
+      "country": "US",
+      "currency": "USD",
+      "unit": "box",
+      "typicalPrice": 152.73,
+      "isDemo": false,
+      "taxIncluded": false,
+      "materialFamily": "tile",
+      "materialType": "ceramic",
+      "productForm": "box",
+      "commercialUnit": "box",
+      "physicalUnit": "sq_ft",
+      "packageSize": 15.49,
+      "sources": [
+        {
+          "name": "Home Depot US",
+          "url": "https://www.homedepot.com/p/Ivy-Hill-Tile-24-in-x-24-in-Matte-Porcelain-Floor-and-Wall-Tile/",
+          "retrievedAt": "2026-09-25T18:55:05.294Z",
+          "publishedAt": "2026-09-25T18:55:05.294Z",
+          "confidence": "medium",
+          "notes": "Ivy Hill Tile 24 in. x 24 in. Matte Porcelain Floor and Wall Tile. $152.73 / case. Covers 15.49 sq. ft."
+        }
+      ]
+    },
+    "source": "Home Depot US"
+  }
+]

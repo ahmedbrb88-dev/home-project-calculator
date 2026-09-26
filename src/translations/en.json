@@ -1,0 +1,82 @@
+{
+  "common": {
+    "search": "Search calculators...",
+    "explore": "Explore calculators",
+    "find": "Find a calculator",
+    "what_do_you_need": "What do you need to calculate?",
+    "you_may_also_need": "You may also need",
+    "results_estimate": "Results are estimates for planning purposes only. Actual material requirements may vary depending on product specifications, installation methods, surface conditions and local requirements.",
+    "how_it_works": "How it works",
+    "example_calculation": "Example calculation",
+    "faq": "FAQ",
+    "copy_result": "Copy result",
+    "reset": "Reset",
+    "advanced_options": "Advanced options",
+    "waste_extra": "Waste / Extra %",
+    "add_local_price": "Add your local price",
+    "estimated_cost": "Estimated cost"
+  },
+  "nav": {
+    "home": "Home",
+    "calculators": "Calculators",
+    "categories": "Categories",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "categories": {
+    "concrete": "Concrete",
+    "concrete_desc": "Calculate concrete volume and material requirements.",
+    "painting": "Painting",
+    "painting_desc": "Calculate paint requirements and cost.",
+    "flooring_tiles": "Flooring & Tiles",
+    "flooring_tiles_desc": "Calculate tiles for any area.",
+    "landscaping": "Landscaping",
+    "landscaping_desc": "Calculate gravel, mulch, and soil.",
+    "measurements": "Measurements",
+    "measurements_desc": "Area and volume conversions."
+  },
+  "calculators": {
+    "concrete": {
+      "title": "Concrete Calculator",
+      "length": "Length",
+      "width": "Width",
+      "depth": "Depth",
+      "concrete_required": "Concrete required",
+      "with_waste": "With waste"
+    },
+    "paint": {
+      "title": "Paint Calculator",
+      "wall_length": "Wall length",
+      "wall_height": "Wall height",
+      "number_of_walls": "Number of walls",
+      "doors": "Doors",
+      "windows": "Windows",
+      "number_of_coats": "Number of coats",
+      "paint_required": "Paint required"
+    },
+    "gravel": {
+      "title": "Gravel Calculator",
+      "length": "Length",
+      "width": "Width",
+      "depth": "Depth",
+      "volume": "Volume",
+      "estimated_weight": "Estimated weight"
+    },
+    "tile": {
+      "title": "Tile Calculator",
+      "room_length": "Room length",
+      "room_width": "Room width",
+      "tile_length": "Tile length",
+      "tile_width": "Tile width",
+      "area": "Area",
+      "tiles_required": "Tiles required"
+    },
+    "square_footage": {
+      "title": "Square Footage Calculator",
+      "length": "Length",
+      "width": "Width",
+      "result_sqm": "Result (m²)",
+      "result_sqft": "Result (sq ft)"
+    }
+  }
+}

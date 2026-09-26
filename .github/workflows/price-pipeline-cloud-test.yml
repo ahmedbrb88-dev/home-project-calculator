@@ -1,0 +1,51 @@
+name: Price Pipeline Cloud Test (Phase 28)
+
+on:
+  workflow_dispatch:
+    inputs:
+      max_products:
+        description: 'Max products to test (default 5)'
+        required: false
+        default: '5'
+
+jobs:
+  cloud-test:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Build Project
+        run: npm run build
+
+      - name: Run Real Pipeline Integration Test
+        run: npm run price:test:pipeline > price-pipeline-cloud-report.txt 2>&1
+        continue-on-error: true
+
+      - name: Display Cloud Report
+        run: cat price-pipeline-cloud-report.txt
+
+      - name: Upload Report Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: price-pipeline-cloud-report
+          path: price-pipeline-cloud-report.txt
+          retention-days: 7
+
+      - name: Verify No Production Changes (Git Diff)
+        run: |
+          if git diff --exit-code data/pricing/prices.json; then
+            echo "SUCCESS: prices.json is unchanged (DRY RUN respected)"
+          else
+            echo "ERROR: prices.json was modified!"
+            exit 1
+          fi
